@@ -2,7 +2,8 @@
 // Name : Brayden McDowell
 // Title : McDowell_Brayden_Assignment#4.cpp
 // Date : 12/02/16
-// Description : Cars with names go fast and you learn how fast and who is fastest 
+// Description : Assign's names and numbers to "cars" using arrays and then pits them in a 
+// random "race" and measures the outcomes of the "race"
 //****************************************************************
 /*
 A.Classes can do everything structs can do with the addition of being able to run a function to fill in part of the struct. In class Members can also be private of public as opposed to the default
